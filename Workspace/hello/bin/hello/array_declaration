@@ -1,0 +1,2 @@
+int[] array = new int[3];
+array[0] = 120;
