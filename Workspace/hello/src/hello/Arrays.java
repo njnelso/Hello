@@ -8,7 +8,7 @@ public class Arrays {
 		array[5] = 77;
 		System.out.print(array[5]);
 		
-		System.out.println("\n");
+		System.out.println("\n"); //Skip line
 		
 		String[] words = {"abc", "def", "ghi"};
 		words[0] = "dee";
