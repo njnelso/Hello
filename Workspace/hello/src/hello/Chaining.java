@@ -1,5 +1,5 @@
 package hello;
-
+//Practice chaining classes
 public class Chaining {
 
 	public static void main(String[] args) {
